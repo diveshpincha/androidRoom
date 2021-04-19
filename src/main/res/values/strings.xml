@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="word">Word</string>
+    <string name="insert">insert</string>
+    <string name="textview">TextView</string>
+    <string name="insertword">insertWord</string>
+    <string name="clear">clear</string>
+</resources>
